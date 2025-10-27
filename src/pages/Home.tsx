@@ -1,7 +1,10 @@
 import React, { useEffect, useState } from "react";
+import { useNavigate } from "react-router-dom";
+import InputPage from "./InputPage";
 
 const Home: React.FC = () => {
   const [message, setMessage] = useState<string>("Loading...");
+  //const navigate = useNavigate();
 
   useEffect(() => {
     // Call the backend API
@@ -14,10 +17,12 @@ const Home: React.FC = () => {
       });
   }, []);
 
+
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
       <h1>Home Page</h1>
       <p>Backend says: <strong>{message}</strong></p>
+      <button onClick={() => InputPage}>Next ➜</button>
     </div>
   );
 };
