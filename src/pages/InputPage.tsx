@@ -7,10 +7,10 @@ const InputPage: React.FC = () => {
 
   const handleSubmit = async () => {
     try {
-      const response = await fetch("http://localhost:8080/test/testId", {
+      const response = await fetch(`http://localhost:8080/test/${number}`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(number),
+        //body: JSON.stringify(number),
       });
       const data = await response.json();
 

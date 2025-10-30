@@ -4,7 +4,7 @@ import InputPage from "./InputPage";
 
 const Home: React.FC = () => {
   const [message, setMessage] = useState<string>("Loading...");
-  //const navigate = useNavigate();
+  const navigate = useNavigate();
 
   useEffect(() => {
     // Call the backend API
@@ -22,7 +22,7 @@ const Home: React.FC = () => {
     <div style={{ textAlign: "center", marginTop: "50px" }}>
       <h1>Home Page</h1>
       <p>Backend says: <strong>{message}</strong></p>
-      <button onClick={() => InputPage}>Next ➜</button>
+      <button onClick={() => navigate("/input")}>Next ➜</button>
     </div>
   );
 };
