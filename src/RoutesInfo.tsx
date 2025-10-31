@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import InputPage from "./pages/InputPage";
 import ResultPage from "./pages/ResultPage";
 
+//Need to deepdive React.FC
 const RoutesInfo: React.FC = () => {
   return (
     <Router>

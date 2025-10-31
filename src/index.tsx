@@ -5,6 +5,7 @@ import reportWebVitals from './reportWebVitals';
 import Home from './pages/Home';
 import RoutesInfo from './RoutesInfo';
 
+//Need to understand ReactDOM and root
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
