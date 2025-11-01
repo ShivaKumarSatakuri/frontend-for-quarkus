@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import RoutesInfo from './RoutesInfo';
 
 //Need to understand ReactDOM and root
+//No progress today 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
