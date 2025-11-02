@@ -7,6 +7,7 @@ import RoutesInfo from './RoutesInfo';
 
 //Need to understand ReactDOM and root
 //No progress today 
+//Need to work on react basiscs
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
