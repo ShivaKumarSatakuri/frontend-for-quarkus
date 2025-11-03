@@ -19,7 +19,21 @@ const ResultPage: React.FC = () => {
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
       <h2>Response from Backend</h2>
-      <pre>{JSON.stringify(result, null, 2)}</pre>
+      <table align="center" border={1} cellPadding={5} cellSpacing={0}>
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>Name</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>{result.id}</td>
+              <td>{result.name}</td>
+          </tr>
+        </tbody>
+      </table>
+      {/* <pre>{JSON.stringify(result, null, 2)}</pre> */}
       <button onClick={() => navigate("/input")}>Try Again</button>
     </div>
   );
