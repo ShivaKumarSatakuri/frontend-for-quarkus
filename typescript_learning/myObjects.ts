@@ -4,10 +4,10 @@ const user = {
     isActive: true
 }
 
-function createUser(user: {name: string, isPaid: boolean}){}
+function createUser(user: { name: string, isPaid: boolean }) { }
 
-function createCourse(): {name: string, price: number} {
-    return {name: "reactjs", price: 399}
-}
+let newUser = { name: "Bob", isPaid: false, email: "bob.r@gmail.com" }
 
-export{}
+createUser(newUser)
+
+export {}
