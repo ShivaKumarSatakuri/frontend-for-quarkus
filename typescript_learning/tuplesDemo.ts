@@ -10,3 +10,5 @@ const newUser: User = [1, 'Alice']
 // Modifying tuple elements
 newUser[0] = 2
 newUser[1] = 'Bob'
+
+export { }
