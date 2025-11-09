@@ -7,6 +7,10 @@ interface UserInterface {
     getCoupon: (couponname: string, value: number) => number
 }
 
+interface Admin extends UserInterface {
+    role: "admin" | "ta" | "learner"
+}
+
 const shiva: UserInterface = {
     dbId: 1234,
     email: "shiva.s@gmail.com",
