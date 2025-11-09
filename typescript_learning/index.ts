@@ -2,9 +2,9 @@
 class DemoClass {
 
     //defining properties of the class
-    email: string;
+    public email: string;
     name: string;
-    city: string = "Hyderabad";
+    private city: string = "Hyderabad";
     readonly dob: string = "01-01-1990";
 
     //constructor of the class
@@ -18,4 +18,4 @@ class DemoClass {
 const shiva = new DemoClass("shiva", "Shiva Kumar");
 
 //modifying the city property of the object
-shiva.city = "Bangalore";
+//shiva.city = "Bangalore";
