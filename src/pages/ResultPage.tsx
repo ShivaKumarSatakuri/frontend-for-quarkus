@@ -40,3 +40,4 @@ const ResultPage: React.FC = () => {
 };
 
 export default ResultPage;
+//No progress today, need to find a react tutorial to follow
