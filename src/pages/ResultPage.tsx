@@ -41,3 +41,5 @@ const ResultPage: React.FC = () => {
 
 export default ResultPage;
 //No progress today, need to find a react tutorial to follow
+// Started working on my first react project today at the office.
+// Worked on creating grids and tables using interstellar framework
