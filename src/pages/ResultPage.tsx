@@ -45,3 +45,5 @@ export default ResultPage;
 // Worked on creating grids and tables using interstellar framework
 // worked on understanding grids. Almost completed the web page today.
 // Need to work on mock server data
+// Built a  web page today. Need to add react code to it.
+// Started understand mock server
