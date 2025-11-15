@@ -47,3 +47,4 @@ export default ResultPage;
 // Need to work on mock server data
 // Built a  web page today. Need to add react code to it.
 // Started understand mock server
+// No progress today
