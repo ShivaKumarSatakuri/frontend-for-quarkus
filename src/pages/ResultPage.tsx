@@ -48,3 +48,4 @@ export default ResultPage;
 // Built a  web page today. Need to add react code to it.
 // Started understand mock server
 // No progress today
+// Understood what code I've written on Friday while working.
