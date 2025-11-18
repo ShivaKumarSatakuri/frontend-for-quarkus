@@ -50,3 +50,4 @@ export default ResultPage;
 // No progress today
 // Understood what code I've written on Friday while working.
 // Worked on container, box and few other components of interstellar framework
+// Worked on mcok server today. Need to understand few basics tomorrow
