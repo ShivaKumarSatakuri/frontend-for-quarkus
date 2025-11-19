@@ -51,4 +51,4 @@ export default ResultPage;
 // Understood what code I've written on Friday while working.
 // Worked on container, box and few other components of interstellar framework
 // Worked on mock server today. Need to understand few basics tomorrow
-// Completed UI part today. Need to connect it to mock server tomorrow
+// Completed UI part today. Need to connect it to mock server tomorrow. Need to refine code
