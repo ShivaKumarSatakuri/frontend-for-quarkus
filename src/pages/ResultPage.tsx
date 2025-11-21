@@ -53,3 +53,4 @@ export default ResultPage;
 // Worked on mock server today. Need to understand few basics tomorrow
 // Completed UI part today. Need to connect it to mock server tomorrow. Need to refine code
 // Worked on segregating components today. Need to connect to mock server tomorrow
+// No progress today
