@@ -55,3 +55,4 @@ export default ResultPage;
 // Worked on segregating components today. Need to connect to mock server tomorrow
 // No progress today
 // Completed setting up mock server. Written unit tests for components
+// Worked on fixing bugs in unit tests today. Deployed changes in init env.
