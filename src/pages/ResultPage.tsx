@@ -57,3 +57,4 @@ export default ResultPage;
 // Completed setting up mock server. Written unit tests for components
 // Worked on fixing bugs in unit tests today. Deployed changes in init env.
 // Completed one feature. UI, tests and mock server integration
+// react interview questions 
