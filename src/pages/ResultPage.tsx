@@ -58,4 +58,5 @@ export default ResultPage;
 // Worked on fixing bugs in unit tests today. Deployed changes in init env.
 // Completed one feature. UI, tests and mock server integration
 // react interview questions
-// no progress today 
+// no progress today
+// No progress today
