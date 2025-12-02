@@ -62,3 +62,5 @@ export default ResultPage;
 // No progress today
 // No progress today 
 // Worked on dialog boxes today. Will do some progress on system desing concept.
+// Completed dialog box feature today. Simplified accept and decline implementation to single class.
+// Also, simplified tables implementation. 
