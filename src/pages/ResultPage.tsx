@@ -65,3 +65,4 @@ export default ResultPage;
 // Completed dialog box feature today. Simplified accept and decline implementation to single class.
 // Also, simplified tables implementation.
 // Completed URL redirection based on env. Fixing test cases
+// no progress today 
