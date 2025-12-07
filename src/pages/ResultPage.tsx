@@ -67,3 +67,4 @@ export default ResultPage;
 // Completed URL redirection based on env. Fixing test cases
 // no progress today 
 // Worked on fixing tests, but no luck
+// vaguely fixed the test case and improved coverage
