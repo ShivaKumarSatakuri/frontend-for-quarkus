@@ -68,3 +68,7 @@ export default ResultPage;
 // no progress today 
 // Worked on fixing tests, but no luck
 // vaguely fixed the test case and improved coverage
+// Completed both stories and fixed tests
+// squash 1
+// squash 2
+// squash 3
