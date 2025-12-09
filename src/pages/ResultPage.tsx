@@ -69,3 +69,9 @@ export default ResultPage;
 // Worked on fixing tests, but no luck
 // vaguely fixed the test case and improved coverage
 // Completed both stories and fixed tests
+// squash 1
+// squash 2
+// squash 3
+// squash attempt 2-1 
+// squash attempt 2-2
+// squash attempt 2-3
