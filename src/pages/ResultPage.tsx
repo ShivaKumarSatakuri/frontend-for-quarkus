@@ -70,3 +70,4 @@ export default ResultPage;
 // vaguely fixed the test case and improved coverage
 // Completed both stories and fixed tests
 // squash 1
+// squash 2
