@@ -71,3 +71,4 @@ export default ResultPage;
 // Completed both stories and fixed tests
 // squash 1
 // squash 2
+// squash 3
