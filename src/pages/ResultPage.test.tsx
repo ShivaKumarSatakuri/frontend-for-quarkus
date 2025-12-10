@@ -27,3 +27,4 @@ test("shows 'No data found' when no result is passed", () => {
   expect(screen.getByText("No data found")).toBeInTheDocument();
   expect(screen.getByRole("button", { name: /Go Back/i })).toBeInTheDocument();
 });
+//quash commit 2
