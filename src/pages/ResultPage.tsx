@@ -71,3 +71,4 @@ export default ResultPage;
 // Completed both stories and fixed tests
 //quash commit 3
 // Figured out different ways to hot reload quarkus app
+// No progress today
