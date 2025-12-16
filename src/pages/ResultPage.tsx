@@ -72,3 +72,4 @@ export default ResultPage;
 //quash commit 3
 // Figured out different ways to hot reload quarkus app
 // No progress today
+// No progress today
