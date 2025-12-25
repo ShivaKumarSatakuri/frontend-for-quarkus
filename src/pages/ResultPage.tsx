@@ -81,3 +81,4 @@ export default ResultPage;
 // Worked on fixing pom.xml file
 // No progress today
 // worked on fixing spring boot service issues related to pom.xml
+// Tried fixing artifact issues.
