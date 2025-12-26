@@ -82,3 +82,4 @@ export default ResultPage;
 // No progress today
 // worked on fixing spring boot service issues related to pom.xml
 // Tried fixing artifact issues.
+// Started implementing API in quarkus.
