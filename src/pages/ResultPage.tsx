@@ -84,3 +84,4 @@ export default ResultPage;
 // Tried fixing artifact issues.
 // Started implementing API in quarkus.
 // Complete Loans onboarding process today.
+// Started making notes for loans onboarding process.
