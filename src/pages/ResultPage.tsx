@@ -89,3 +89,4 @@ export default ResultPage;
 // Compled backend api implementation
 // Ending year wiht great progress
 // Resolved dependency issues. Commented out db code. Need to fix build issue.
+// Fixed all dependency issues.
