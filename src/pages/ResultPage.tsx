@@ -91,3 +91,4 @@ export default ResultPage;
 // Resolved dependency issues. Commented out db code. Need to fix build issue.
 // Fixed all dependency issues.
 // No progress today
+// Spent time on understanding loans functionality
