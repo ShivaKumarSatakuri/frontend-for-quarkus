@@ -92,3 +92,4 @@ export default ResultPage;
 // Fixed all dependency issues.
 // No progress today
 // Spent time on understanding loans functionality
+// Working on swaggger setup
