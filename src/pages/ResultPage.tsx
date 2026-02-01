@@ -116,3 +116,4 @@ export default ResultPage;
 // No progress today
 // Understanding Dijkstra's algorithm
 // No progress today
+// Worked on understanding Dijkstra's algorithm and A* algorithm
