@@ -162,3 +162,4 @@ export default ResultPage;
 // focused on KTs today
 // completed 2 KTs on loans
 // Completed all KTs on Loans.
+// Completed KTs and Azure AD prerequisites for OAP
