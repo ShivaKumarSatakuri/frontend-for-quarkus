@@ -163,3 +163,4 @@ export default ResultPage;
 // completed 2 KTs on loans
 // Completed all KTs on Loans.
 // Completed KTs and Azure AD prerequisites for OAP
+// No progress today
