@@ -171,3 +171,4 @@ export default ResultPage;
 // Working on ISTIO
 // Working on circuit breaker pattern
 // No progress today
+// Circuit breaking research complete.
