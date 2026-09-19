@@ -1,4 +1,4 @@
-import React from "react";
+8import React from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 
 const ResultPage: React.FC = () => {
@@ -222,3 +222,4 @@ export default ResultPage;
 // No progress today
 // No progress today
 // No progress today
+// No progress today 
